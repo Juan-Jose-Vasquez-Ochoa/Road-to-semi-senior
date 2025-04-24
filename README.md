@@ -36,7 +36,7 @@ En este documento, se expone cómo un proceso tradicional puede mejorarse median
 |----------------------------|----------------------------------|-----------------------------------------|
 | Velocidad de entrega       | Lento                            | Alta, automática                        |
 | Costo operativo            | Alto                             | Bajo, eficiente                         |
-| reseña de los clientes     | promedio/baja                    | buens/alta                              |
+| reseña de los clientes     | promedio/baja                    | buena/alta                              |
 | Adaptabilidad              | muy baja                         | Dinámica, con aprendizaje continuo      |
 
 ## 5. Reflexión Personal
